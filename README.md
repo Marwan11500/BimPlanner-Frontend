@@ -67,8 +67,3 @@ Marwan Soltan
 🇩🇪 Based in Germany
 🌐 LinkedIn: https://www.linkedin.com/in/marwan-soltan/
 
-✅ Next Steps
- Push this project to GitHub
- Deploy backend (e.g., Render, Railway)
- Deploy frontend (e.g., Netlify, Vercel)
- Include this in your application to Autodesk 🎯
